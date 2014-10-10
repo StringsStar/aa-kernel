@@ -1,6 +1,5 @@
 # ignore .o .a
 *.[oa]
 *.bin
-!img/
 *.img
-
+!img/freedos.img
