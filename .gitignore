@@ -2,4 +2,4 @@
 *.[oa]
 *.bin
 *.img
-!img/freedos.img
+!img/*
