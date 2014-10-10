@@ -1,0 +1,6 @@
+# ignore .o .a
+*.[oa]
+*.bin
+!img/
+*.img
+
